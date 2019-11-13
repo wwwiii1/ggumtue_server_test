@@ -1,0 +1,43 @@
+ 
+<style>
+.돋움 {font-family: 돋움;}
+.dotum {font-family: dotum;}
+.돋움체 {font-family: 돋움체;}
+
+.굴림 {font-family: 굴림;}
+.gulim {font-family: gulim;}
+.굴림체 {font-family: 굴림체;}
+
+.고딕 {font-family: 고딕;}
+.고딕체 {font-family: 고딕체;}
+
+ .궁서 {font-family: 궁서;}
+ .궁서체 {font-family: 궁서체;}
+
+ .times {font-family: times;}
+ .courier {font-family: courier;}
+ .arial {font-family: arial;}
+ 
+
+  .my-hr1 {
+    border: 0;
+    height: 1px;
+    background: #ccc;
+  }
+  .my-hr2 {
+    border: 0;
+    height: 2px;
+    background: #ccc;
+  }
+  .my-hr3 {
+    border: 0;
+    height: 3px;
+    background: #ccc;
+  }
+</style>
+
+<hr class="my-hr1">
+
+<hr class="my-hr2">
+
+<hr class="my-hr3">
